@@ -3,10 +3,14 @@
 
 Final Project for LING 28610 (Autumn 2020)
 
-Members
+Members:
+
 Nancy Li
 Deniz Türkçapar
 Zhou Xing
 
-Visualization
+
+
+Visualization:
+
 Upload metadata.tsv and vectors.tsv into http://projector.tensorflow.org/
